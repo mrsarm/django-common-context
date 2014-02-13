@@ -11,7 +11,7 @@ Installation
 ------------
 
 Once you've downloaded and unpacked the staticsfiles_ignoredebug source release,
-enter the directory where the archive was unpacked, and run:
+enter the directory where the archive was unpacked, and run::
 
     python setup.py install
 
