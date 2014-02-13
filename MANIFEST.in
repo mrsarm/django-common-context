@@ -1,5 +1,4 @@
-include LICENSE
-include COPYRIGHT
-include README
-include CHANGELOG
-include INSTALL
+include COPYING
+include COPYING.LESSER
+include README.rst
+include INSTALL.rst

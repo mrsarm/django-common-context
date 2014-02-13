@@ -4,8 +4,8 @@ Installing django-common-context
 Prerequisites
 -------------
 
- * Python 2.6+
- * Django 1.4+
+* Python 2.6+
+* Django 1.4+
 
 Installation
 ------------
